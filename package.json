@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/byteball/byteball-explorer.git",
+    "url": "git://github.com/ly95/byteball-explorer.git",
     "type": "git"
   },
   "bugs": {
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "async": "^2.1.5",
-    "byteballcore": "git+https://github.com/byteball/byteballcore.git",
+    "byteballcore": "git+https://github.com/ly95/byteballcore.git",
     "express": "^4.14.0",
     "moment": "^2.17.1",
     "socket.io": "^1.7.1"
